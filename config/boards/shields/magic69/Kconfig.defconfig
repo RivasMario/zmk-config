@@ -1,0 +1,6 @@
+if SHIELD_MAGIC69
+
+config ZMK_KEYBOARD_NAME
+    default "magic69"
+
+endif
